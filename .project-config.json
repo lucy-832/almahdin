@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/kcbyoK2VqRRj2UMtxrkHxe.git",
+    "expiration": "2026-08-15T16:35:49.752Z",
+    "token": "art_v2_x_dbf584037a07c2eda5ccc6c9ebf959aed21900f0?expires=1786811749",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "al-madina-cooking-center",
+  "path": "/home/ubuntu/al-madina-cooking-center",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "6JkYjMUvL3vQaxzFehAbp9",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "NjRqBtzDbts3KZkWwdnQAT",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Milly Shiro",
+    "OWNER_OPEN_ID": "VPmZCAia3ComaRgBry4K82",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "088e3eb1-5746-4ca0-8aca-48d725e7809d",
+    "VITE_APP_ID": "kcbyoK2VqRRj2UMtxrkHxe",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Al-Madina Cooking Center",
+    "VITE_FRONTEND_FORGE_API_KEY": "bwBJ56aHpCs4NgqhgZuzFU",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}

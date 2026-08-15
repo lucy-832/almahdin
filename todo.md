@@ -1,0 +1,39 @@
+# AMC update checklist
+
+- [x] Add a Google Map section with a clear location placeholder and a directions link. The search uses the AMC business name and phone number until an exact street address or pin is supplied.
+- [x] Add an English/Urdu language switcher that updates navigation, headings, labels, and key CTA text.
+- [x] Add Urdu translations with correct right-to-left rendering and responsive control placement.
+- [x] Revise menu categories and item copy so every item has a matching food image, including Chicken, Meat, Seafood, Main Dishes, Rice, Salads, Desserts, and Drinks.
+- [x] Verify the page at desktop and mobile sizes; type check and production build pass. Existing menu filtering, gallery lightbox, quote validation, and WhatsApp URL generation remain wired.
+- [x] Replace every Urdu-script translation with Roman Urdu using only Latin keyboard characters.
+- [x] Ensure the language toggle is labeled English | Urdu while the Urdu mode renders Roman Urdu only.
+- [x] Update all translated navigation, hero, menu, forms, validation, WhatsApp, contact, delivery, and footer copy.
+- [x] Set the embedded Google Map and directions link to Lahore, Pakistan at coordinates 31.5204, 74.3587.
+- [x] Verify there are no Arabic/Persian/Urdu Unicode characters anywhere in the frontend source or rendered UI.
+- [x] Run responsive desktop/mobile screenshots plus type check and production build.
+- [x] Save a new checkpoint after verification.
+- [x] Generate the complete no-price menu PDF from the final approved menu.
+- [x] Add an accessible Download Complete Menu PDF button to the website.
+- [x] Verify the PDF content, download link, Roman Urdu label, responsive placement, type check, and production build.
+- [x] Save a new checkpoint and deliver the PDF file.
+- [x] Audit the menu filter array shape and filtered card image bindings.
+- [x] Fix filtered menu cards so every category retains its matching image by re-observing newly rendered cards.
+- [x] Verify the menu section at desktop and mobile sizes; filter wiring covers All, Main Course, Rice Specialties, and Starters/Salads/Accompaniments.
+- [x] Confirm the PDF button and Roman Urdu toggle remain intact, then save a checkpoint.
+- [x] Move logo, hero, supporting, menu, and gallery image references into one editable image configuration file.
+- [x] Add a concise image replacement guide with required formats, recommended crops, and upload steps.
+- [x] Verify the central image configuration preserves all existing site sections and production build.
+- [ ] Package the customizable website source and save a checkpoint for download.
+- [x] Enhance the gallery with high-quality catering event and food-setup imagery.
+- [x] Preserve the existing lightbox and Roman Urdu/English behavior across gallery labels.
+- [x] Verify desktop and mobile gallery layout, image loading, and production build.
+- [x] Package the updated website files for download and save a new checkpoint.
+- [x] Add gallery categories for All, Weddings, Corporate Events, and Buffets.
+- [x] Add bilingual English/Roman Urdu filter labels and keep every gallery item filterable.
+- [x] Verify filtering wiring, lightbox captions, responsive layout, desktop/mobile screenshots, type check, and production build.
+- [x] Save a new checkpoint; the prior downloadable project package remains available and can be regenerated after any future content changes.
+- [x] Replace the current menu with the user-provided final no-price categories and items.
+- [x] Preserve the supplied final ending exactly without inventing additional desserts or dishes.
+- [x] Add matching menu images and update English/Roman Urdu item mappings.
+- [x] Verify menu filters, no prices, Roman Urdu output, responsive layout, type check, and production build.
+- [ ] Save a new checkpoint after verification.
